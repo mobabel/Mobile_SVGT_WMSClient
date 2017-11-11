@@ -1,0 +1,8 @@
+MIDlet-1: Mobile SVGT WMS Client 1.03 S60,/A.png,MIDlet.MobileSVGTWMSClient
+MIDlet-Jar-Size: 254019
+MIDlet-Jar-URL: Mobile_SVGT_WMSClient_1.03S60.jar
+MIDlet-Name: Mobile_SVGT_WMSClient_1.03S60
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

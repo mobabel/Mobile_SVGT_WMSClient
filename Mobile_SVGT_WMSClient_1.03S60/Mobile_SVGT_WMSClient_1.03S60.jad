@@ -1,0 +1,6 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Jar-URL: Mobile_SVGT_WMSClient_1.03S60.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Name: Mobile_SVGT_WMSClient_1.03S60 Midlet Suite

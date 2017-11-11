@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generator: Mobile Designer 1.0 -->
+<!-- Copyright (C) TinyLine 2002-2004. All rights reserved. -->
+<svg width="176" height="208" viewBox="-88 -104 176 208"
+	stroke-miterlimit="2" enable-background="new" zoomAndPan="disable"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	xml:space="preserve" version="1.1" baseProfile="Normal">
+
+<!-- Definitions -->
+<defs>
+</defs>
+
+<!-- Movie Background -->
+<rect fill="#fff" x="-88" y="-104" width="176" height="208"/>
+
+<!-- Scene 1 -->
+<g id="Scene_1">
+
+	<!-- Scene Background Color -->
+	<rect fill="#fff" x="-88" y="-104" width="176" height="208"/>
+
+	<!-- Animation -->
+	<g id="Animation_1">
+		<text x="-66.33" y="0.21" id="Text_01_copy" font-size="23.87" font-family="Arial" fill="#fff">TinyLine<animate attributeName="fill"
+				values="#fff;#6f7472;#6f7472"
+				keyTimes="0;0.22;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" additive="replace"
+				values="-117,0;0,0;0,0"
+				keyTimes="0;0.22;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/></text>
+		<path id="path_02_copy" fill="#fc0300" stroke="#fc0300" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="4"
+			d="M31.16 -26.81 l32.72 17.52">
+			<animateTransform attributeName="transform" type="translate" additive="replace"
+				values="-155,-96;-155,-96;-149.07,-37.59;0,0;0,0"
+				keyTimes="0;0.23;0.31;0.4;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+			<animateTransform attributeName="transform" type="scale" additive="sum"
+				values="1,1;1,1;2.12033,2.12033;1,1;1,1"
+				keyTimes="0;0.23;0.31;0.4;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+		</path>
+		<path id="path_03_copy" fill="#0000fa" stroke="#00f" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="4"
+			d="M36.46 -16.37 l21.22 -10.61">
+			<animateTransform attributeName="transform" type="translate" additive="replace"
+				values="53.5,-28;53.5,-28;3.76,-3.54;0,0;0,0"
+				keyTimes="0;0.58;0.68;0.76;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+			<animateTransform attributeName="transform" type="scale" additive="sum"
+				values="1,1;1,1;1.58138,1.58138;1,1;1,1"
+				keyTimes="0;0.58;0.68;0.76;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+		</path>
+		<path id="path_04_copy" fill="#0000fa" stroke="#0f0" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="4"
+			d="M30.72 -21.22 l7.07 14.14">
+			<animateTransform attributeName="transform" type="translate" additive="replace"
+				values="60.5,107.5;60.5,107.5;-40.93,80.11;0,0;0,0"
+				keyTimes="0;0.41;0.49;0.57;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+			<animateTransform attributeName="transform" type="scale" additive="sum"
+				values="1,1;1,1;3.04084,3.04084;1,1;1,1"
+				keyTimes="0;0.41;0.49;0.57;1"
+				dur="3.54s" fill="freeze" repeatCount="indefinite"/>
+		</path>
+	</g>
+</g>
+
+</svg>
+
+
