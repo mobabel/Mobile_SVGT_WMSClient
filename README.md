@@ -3,8 +3,8 @@ J2ME Mobile SVGT WMS Client
 
 ## Overview
 
-Developed in 2006 for my master thesis.
-
+Developed in 2006 for my master thesis. 
+http://www.easywms.com/?q=node/86
 
 1. The Client conform to OGC WMS 1.1.0 / 1.1.1 specifications 
 2. Connecting to any WMS given the server URL in form GetCapabilities 
