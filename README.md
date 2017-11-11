@@ -28,8 +28,8 @@ TinyLine SVG
 4. Know-how SVG Tiny
 
 ## Others
-Mobile_SVGT_WMSClient_1.03 is for common J2ME devices.
-Mobile_SVGT_WMSClient_1.03S60 is for Nokia S60 Serries.
+1. Mobile_SVGT_WMSClient_1.03 is for common J2ME devices.
+2. Mobile_SVGT_WMSClient_1.03S60 is for Nokia S60 Serries.
 
 ---
 ---
